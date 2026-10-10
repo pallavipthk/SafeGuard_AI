@@ -1,0 +1,11 @@
+node_modules/
+venv/
+__pycache__/
+*.pyc
+frontend/dist/
+.env
+*.db
+*.sqlite3
+backend/uploads/
+.vscode/
+tempCodeRunnerFile.bat
