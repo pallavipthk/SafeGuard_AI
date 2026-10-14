@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 # 🛡️ SafeGuard AI
@@ -357,3 +358,6 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for details.
 ⭐ If you find this project useful, please consider giving it a star!
 
 </div>
+=======
+# SafeGuard_AI
+>>>>>>> cff7b40ad78ac857927e11c8c08a029e90e0974b
