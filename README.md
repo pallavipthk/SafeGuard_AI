@@ -1,14 +1,15 @@
 <div align="center">
 
-```text
-╔═══════════════════════════════════════════════════════╗
-║                                                       ║
-║   🛡️   S A F E G U A R D   A I                        ║
-║                                                       ║
-║   Intelligent Road Safety & Accident Prevention       ║
-║                                                       ║
-╚═══════════════════════════════════════════════════════╝
-```
+<table align="center">
+<tr>
+<td align="center">
+<br>
+<h1 align="center">🛡️ S A F E G U A R D &nbsp; A I</h1>
+<b>Intelligent Road Safety &amp; Accident Prevention</b>
+<br><br>
+</td>
+</tr>
+</table>
 
 ### 🚦 Making every journey safer, with AI 🚦
 
